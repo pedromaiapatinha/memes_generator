@@ -10,8 +10,12 @@ This library provides extensive file format support, an efficient internal repre
 The core image library is designed for fast access to data stored in a few basic pixel formats. It should provide a solid foundation for a general image processing tool.
 
 
-## Sample Meme
+## Further Work
+* Resize images
+* Create logic to always fit text in images
+* Make the main function simpler
 
+## Sample Meme
 ![Final Meme](final_meme.png)
 
 
@@ -19,6 +23,7 @@ The core image library is designed for fast access to data stored in a few basic
 ```
 ├── Create Memes with Python.ipynb
 ├── final_meme.png
+├── memes
 └── README.md
 ```
 
