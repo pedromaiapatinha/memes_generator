@@ -29,4 +29,4 @@ The core image library is designed for fast access to data stored in a few basic
 
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
